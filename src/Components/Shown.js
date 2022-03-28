@@ -1,8 +1,8 @@
 import React from 'react';
 
-function Shown() {
-
-    const user = "Trev"
+function Shown(props) {
+    
+    const { user } = props;
     
     return (
         <h1>This is the landing page for everyone! Hello, {user}</h1>
