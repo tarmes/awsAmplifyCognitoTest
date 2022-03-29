@@ -10,6 +10,11 @@
       "StackName": "amplify-productchanger-dev-191948",
       "StackId": "arn:aws:cloudformation:us-east-1:905134189597:stack/amplify-productchanger-dev-191948/91702210-aeed-11ec-985e-0a7af5751497",
       "AmplifyAppId": "debdttkwiq6i1"
+    },
+    "categories": {
+      "auth": {
+        "productchanger453110d6": {}
+      }
     }
   }
 }
